@@ -3,7 +3,7 @@
 	"name": "目录自动生成",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "每次打开仓库时，自动扫描所有文件夹和 Markdown 文件，生成或更新目录索引文件。",
+	"description": "每次打开仓库时，自动扫描所有文件夹和 Markdown 文件，生成或更新目录索引文件",
 	"author": "jerry",
 	"isDesktopOnly": false
 }
